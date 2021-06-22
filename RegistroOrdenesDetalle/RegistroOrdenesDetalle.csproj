@@ -6,7 +6,6 @@
 
   <ItemGroup>
     <Folder Include="Data\" />
-    <Folder Include="BLL\" />
     <Folder Include="Pages\Registros\" />
   </ItemGroup>
 
